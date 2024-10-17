@@ -4,6 +4,8 @@
 
 Welcome to the To-Do List App! This application helps you organize and manage your tasks efficiently. With a clean interface and easy functionality, you can add, remove, and mark tasks as complete.
 
+<img width="1219" alt="to-do-andy" src="https://github.com/user-attachments/assets/63d3fd43-af9b-4046-b5a8-b27c966a48c9">
+
 ## Features
 
 - Add new tasks
